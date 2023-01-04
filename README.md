@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](images/qr-solution.png)
 ### Links
 
-- Live Site URL: [QR-code](qr-code-card-1.netlify.app)
+- Live Site URL: [QR-code](https://qr-code-card-1.netlify.app/)
 
 
 ### Built with
